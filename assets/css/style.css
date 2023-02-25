@@ -1026,8 +1026,7 @@ hr {
     align-self: flex-start;
     width: 50%;
     height: 413px;
-    /* background: url(/assimages/overview/overview.png); */
-    background: url(/assets/images/overview/overview.png);
+    background: url(../images/overview/overview.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
